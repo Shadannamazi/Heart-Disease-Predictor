@@ -1,5 +1,5 @@
 # **Predicting Heart Disease Presence Using Clinical Parameters - age, type of chest pain, serum cholesterol levels, and maximum heart rate achieved.**
- #### Mehardeep Singh, Ariana Binarao, Yasmin Faghir, Shadan Namazifard
+
 ### **Introduction**
 Heart disease encompasses various conditions that affect the heart and blood vessels, including coronary artery disease, which is characterized by the narrowing of the arteries that supply blood to the heart. This narrowing is often caused by various factors, including cholesterol accumulation and heart performance indicators such as the maximum heart rate achieved during stress (American Heart Association, n.d.).
 
